@@ -1,5 +1,6 @@
 # Groupus
 It's a desktop application for the users to organize the events very well. Users could sign up, sign in, post events, search events and join events. 
+
 The project is implemented under the git revision control and followed the basic rules for developing software. The whole design include the front end, back end, test parts, I undertake the back end part, which is implemented based on DAO design pattern. 
 Design user stories for above features firstly, the divide the backend code into three parts: database, data layer, and business layer. 
 For database design, we select noSQL database Mongodb. Two collections have to be maintained in database for user information and event information respectively. 
